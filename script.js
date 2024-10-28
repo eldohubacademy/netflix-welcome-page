@@ -26,3 +26,6 @@ questions.forEach((question) => {
     // count++;
   });
 });
+
+
+///added some code
